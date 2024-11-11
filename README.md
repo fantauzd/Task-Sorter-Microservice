@@ -74,3 +74,7 @@ Notes: The ... represents where more tasks would be. For the "sort" key, the val
 #### Example (example.py):
 
 response = json.loads(socket.recv_string())
+
+## UML Diagram:
+
+![img.png](img.png)
